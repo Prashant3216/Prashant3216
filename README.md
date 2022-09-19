@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prashant Verma</h1>
 <h3 align="center">An Aspiring Full Stack Web Developer from India</h3>
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+     alt="Software Developer icon"
+     style="float: left; margin-right: 10px; margin:auto" />
 
-![](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant3216&label=Profile%20views&color=0e75b6&style=flat" alt="prashant3216" /> </p>
 
