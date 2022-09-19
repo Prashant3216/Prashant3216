@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prashant Verma</h1>
 <h3 align="center">An Aspiring Full Stack Web Developer from India</h3>
 
+![](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant3216&label=Profile%20views&color=0e75b6&style=flat" alt="prashant3216" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant3216" alt="prashant3216" /></a> </p>
