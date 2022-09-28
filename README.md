@@ -52,8 +52,18 @@ PharmEasy is a consumer healthcare that provides consumers with on-demand, home 
  *  #### TechStack:
     * `JavaScript`, `HTML5`,`CSS3`,`REST API`, and`Netlify`
  *  #### Areas of Responsibility:
-    * Build homepage with responsivce UI with fully functional carousel
+    * Built homepage with responsivce UI with fully functional carousel
     * Implemetated footer for all the pages with proper links
+2. [mytheresa-Clone](https://github.com/Prashant3216/mytheresa-clone)
+- - -
+Mytheresa is German e-commerce luxury fashion online shopping destination for children's, men's, and women's luxury fashion and lifestyle design.
+ *  #### TechStack:
+    * `JavaScript`, `HTML5`,`CSS3`, `LocalStorage` and `Netlify`
+ *  #### Areas of Responsibility:
+    * Built homepage, product page and cart page with responsivce UI
+    * Implemented navbar and footer on every page
+    * Managed and led the project with daily scrum. 
+- - -
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant3216&show_icons=true&locale=en&layout=compact" alt="prashant3216" /></p>
 
