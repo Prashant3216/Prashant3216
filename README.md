@@ -11,6 +11,7 @@
 
 
 ##About
+
 I remember, the first time I coded was back in my graduation, it was a program for finding prime numbers and the code was in C language, I was amazed to see that putting a few random words together on a computer screen can do magic like that. 
 
 I could not realize at that time that it will become my passion a few years down the line, now I am loving every bit of this magic show because I get to write the script for it.
