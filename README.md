@@ -9,6 +9,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant3216" alt="prashant3216" /></a> </p>
 
+
+##About
+I remember, the first time I coded was back in my graduation, it was a program for finding prime numbers and the code was in C language, I was amazed to see that putting a few random words together on a computer screen can do magic like that. 
+
+I could not realize at that time that it will become my passion a few years down the line, now I am loving every bit of this magic show because I get to write the script for it.
+
+I'm fluent in the basics of JavaScript and TypeScript, and I like to build web projects with in-demand web technologies such as React.Js, Redux, Node, MongoDB, and Express.Js.
+
+I have implemented a few projects in collaboration and individually as well, which enables me to have a clear understanding and logical approach to the given problem.
+
 - 🔭 I’m currently working on [OLX-Clone](https://github.com/Prashant3216/accidental-pull-8164)
 
 - 🌱 I’m currently learning **Full Stack Web Development at Masai School, Bangalore.**
