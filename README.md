@@ -15,6 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [prashant3216.github.io](prashant3216.github.io)
 
+- 🔭 This is the few project I build [PharmEasy-clone](https://github.com/Prashant3216/PharmEasy.com) 
+      - It is a collaborative project with 6 members, completed in 5 days. for more details click on the link.
+
 - 💬 Ask me about **React.JS, Node.JS, JavaScript, Chakra UI, Redux, HTML5, CSS3, MongoDB, Express.JS and Python.**
 
 - 📫 How to reach me **pv3216@gmail.com**
