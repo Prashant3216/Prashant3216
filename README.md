@@ -10,7 +10,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant3216" alt="prashant3216" /></a> </p>
 
 
-##About
+## About
+- - -
 
 I remember, the first time I coded was back in my graduation, it was a program for finding prime numbers and the code was in C language, I was amazed to see that putting a few random words together on a computer screen can do magic like that. 
 
