@@ -65,8 +65,8 @@ Mytheresa is German e-commerce luxury fashion online shopping destination for ch
     * Managed and led the project with daily scrum. 
 - - -
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant3216&show_icons=true&locale=en&layout=compact" alt="prashant3216" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant3216&show_icons=true&locale=en&layout=compact" alt="prashant3216" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant3216&show_icons=true&locale=en" alt="prashant3216" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant3216&show_icons=true&locale=en" alt="prashant3216" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant3216&" alt="prashant3216" /></p>
