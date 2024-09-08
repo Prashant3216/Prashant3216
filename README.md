@@ -10,14 +10,7 @@
 
 
 ## About
-
-I remember, the first time I coded was back in my graduation, it was a program for finding prime numbers and the code was in C language, I was amazed to see that putting a few random words together on a computer screen can do magic like that. 
-
-I could not realize at that time that it will become my passion a few years down the line, now I am loving every bit of this magic show because I get to write the script for it.
-
-I'm fluent in the basics of JavaScript and TypeScript, and I like to build web projects with in-demand web technologies such as React.Js, Redux, Node, MongoDB, and Express.Js.
-
-I have implemented a few projects in collaboration and individually as well, which enables me to have a clear understanding and logical approach to the given problem.
+I’m a full-stack developer with 2 years of hands-on experience in both the PERN and MERN stacks (Postgres/MongoDB, Express.js, React.js, Node.js), currently working at 5C Network, India's leading teleradiology platform. I specialize in building scalable web applications, improving user experiences, and delivering impactful solutions, including B2B API integrations and UI architecture redesigns. Passionate about cross-platform development, I thrive in fast-paced, agile environments, continuously optimizing performance and integrating innovative AI tools. I’m always eager to explore cutting-edge technologies to create high-performance applications that solve real-world challenges.
 
 - 🔭 I’m currently working on [OLX-Clone](https://github.com/Prashant3216/accidental-pull-8164)
 
