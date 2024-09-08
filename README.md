@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prashant Verma</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 48%; height: auto;" />
-  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" style="width: 48%; height: auto;" />
-</div>
+<table>
+  <tr>
+    <td><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 100%; height: auto;" /></td>
+    <td><img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" style="width: 100%; height: auto;" /></td>
+  </tr>
+</table>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant3216&label=Profile%20views&color=0e75b6&style=flat" alt="prashant3216" /> </p>
 
