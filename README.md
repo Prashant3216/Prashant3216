@@ -2,8 +2,8 @@
 <h3 align="center">A Full Stack Developer from India</h3>
 
 
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 100%; height: auto;" />
-<img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" style="width: 100%; height: auto;" />
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant3216&label=Profile%20views&color=0e75b6&style=flat" alt="prashant3216" /> </p>
