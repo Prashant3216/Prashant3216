@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer from India</h3>
 
 ![Developer](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-<iframe src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="480" height="360"></iframe>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant3216&label=Profile%20views&color=0e75b6&style=flat" alt="prashant3216" /> </p>
@@ -15,17 +15,16 @@ I’m a full-stack developer with 2 years of hands-on experience in both the PER
 
 - 🔭 I’m currently working with [5C Network](https://www.linkedin.com/company/5c-network/mycompany/)
 
-- 🌱 I’m currently learning [**Go Programming Language**](https://go.dev/)
+- 🌱 I’m currently learning [Go Programming Language](https://go.dev/)
 
 - 👨‍💻 All of my projects are available at [Portfolio](prashant3216.github.io)
 
-- 💬 Ask me about **React.JS, Node.JS, JavaScript, Chakra UI, Redux, HTML5, CSS3, MongoDB, Express.JS and Python.**
+- 💬 Ask me about **Typescript React.JS, Node.JS, JavaScript, Postgresql, Redux, HTML5, CSS3, MongoDB, Express.JS, and Python**
 
 - 📫 How to reach me **pv3216@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ab_UQBpF6AJwXdrMTw6MB6Cmz3uwsJbp/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1SWXrRspRZxYZ6QeT8LI-3Tr4L917qqs_gkylDqoAFSg/edit?usp=sharing)
 
-- ⚡ Fun fact **Common sense is not that common, though, try me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,19 +41,19 @@ I’m a full-stack developer with 2 years of hands-on experience in both the PER
 
 1. [PharmEasy-Clone](https://github.com/Prashant3216/PharmEasy-clone)
 - - -
-PharmEasy is a consumer healthcare that provides consumers with on-demand, home delivered access to a wide range of prescription, OTC pharmaceutical, other consumer healthcare products, comprehensive diagnostic test services, and teleconsultations.
+PharmEasy is a consumer healthcare that provides consumers with on-demand, home-delivered access to a wide range of prescription, OTC pharmaceuticals, other consumer healthcare products, comprehensive diagnostic test services, and teleconsultations.
  *  #### TechStack:
     * `JavaScript`, `HTML5`,`CSS3`,`REST API`, and`Netlify`
  *  #### Areas of Responsibility:
-    * Built homepage with responsivce UI with fully functional carousel
-    * Implemetated footer for all the pages with proper links
+    * Built homepage with responsive UI with a fully functional carousel
+    * Implemented footer for all the pages with proper links
 2. [mytheresa-Clone](https://github.com/Prashant3216/mytheresa-clone)
 - - -
-Mytheresa is German e-commerce luxury fashion online shopping destination for children's, men's, and women's luxury fashion and lifestyle design.
+Mytheresa is a German e-commerce luxury fashion online shopping destination for children's, men's, and women's luxury fashion and lifestyle design.
  *  #### TechStack:
     * `JavaScript`, `HTML5`,`CSS3`, `LocalStorage` and `Netlify`
  *  #### Areas of Responsibility:
-    * Built homepage, product page and cart page with responsivce UI
+    * Built homepage, product page, and cart page with responsive UI
     * Implemented navbar and footer on every page
     * Managed and led the project with daily scrum. 
 - - -
