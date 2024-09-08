@@ -23,9 +23,9 @@ I’m a full-stack developer with 2 years of hands-on experience in both the PER
 
 - 👨‍💻 All of my projects are available at [Portfolio](prashant3216.github.io)
 
-- 💬 Ask me about **Typescript React.JS, Node.JS, JavaScript, Postgresql, Redux, HTML5, CSS3, MongoDB, Express.JS, and Python**
+- 💬 Ask me about **Typescript, React.JS, Node.JS, JavaScript, Postgresql, Redux, HTML5, CSS3, MongoDB, Express.JS, and Python**
 
-- 📫 How to reach me **pv3216@gmail.com**
+- 📫 How to reach me pv3216@gmail.com
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1SWXrRspRZxYZ6QeT8LI-3Tr4L917qqs_gkylDqoAFSg/edit?usp=sharing)
 
