@@ -2,6 +2,9 @@
 <h3 align="center">A Full Stack Developer from India</h3>
 
 ![Developer](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+![GIF](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
+
 <iframe src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="480" height="360"></iframe>
 
 
