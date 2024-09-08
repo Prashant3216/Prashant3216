@@ -4,8 +4,7 @@
 ![Developer](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ![GIF](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
-
-<iframe src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="480" height="360"></iframe>
+<img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" style="width: 100%; height: auto;" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant3216&label=Profile%20views&color=0e75b6&style=flat" alt="prashant3216" /> </p>
