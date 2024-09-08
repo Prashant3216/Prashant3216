@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prashant Verma</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
 
-![Developer](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-![GIF](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 100%; height: auto;" />
 <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" style="width: 100%; height: auto;" />
 
 
