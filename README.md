@@ -17,7 +17,7 @@
 ## About
 I’m a full-stack developer with 2 years of hands-on experience in both the PERN and MERN stacks (Postgres/MongoDB, Express.js, React.js, Node.js), currently working at 5C Network, India's leading teleradiology platform. I specialize in building scalable web applications, improving user experiences, and delivering impactful solutions, including B2B API integrations and UI architecture redesigns. Passionate about cross-platform development, I thrive in fast-paced, agile environments, continuously optimizing performance and integrating innovative AI tools. I’m always eager to explore cutting-edge technologies to create high-performance applications that solve real-world challenges.
 
-- 🔭 I’m currently working with [5C Network](https://www.linkedin.com/company/5c-network/mycompany/)
+- 🔭 I’m currently working with [Precisely](https://www.linkedin.com/company/preciselydata/posts)
 
 - 🌱 I’m currently learning [Go Programming Language](https://go.dev/)
 
